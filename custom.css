@@ -1,0 +1,43 @@
+.color1{
+    background-color: rgb(204, 204, 204);
+}
+.color2{
+    background-color: rgb(28, 48, 114)
+}
+.color3{
+    color: rgb(48, 91, 231)
+}
+.fs64{
+    font-size: 64px;
+}
+.fs32{
+    font-size: 32px;
+}
+.fb{
+    font-weight: 900;
+}
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.centered1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.brr{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.brr1{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.brr2{
+    border: white 1px solid;
+    background-color: rgb(190, 255, 188);;
+    border-radius: 15px;
+}
+
